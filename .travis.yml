@@ -1,6 +1,6 @@
 sudo: false
 language: ruby
-os: ['window']
+os: ['windows']
 cache: bundler
 rvm:
 - 2.6.6
