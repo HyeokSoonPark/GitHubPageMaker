@@ -14,8 +14,5 @@ author: HyeokSoonPark
 {% include blog-table-of-contents.html %}
 
 
-
-{% gist HyeokSoonPark/22eac583fc02ebbe90dd2a54e000b62e%}
-
 이글은 blog 입니다.
 두번째 글입니다.
