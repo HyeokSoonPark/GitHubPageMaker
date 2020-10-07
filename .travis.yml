@@ -24,4 +24,4 @@ env:
     secure: "PXheTUQdhMevb9EeE3iUJ14AfLTE1QmUtakZ6J3Tgr+vLjItd5Hw+6ExVlkv7Y6AR8H4sPgXHnghqmBOzxk9BThxKIIBwBQ7rLWVa9s/wDBY9M0/dd4sMD2bN4S+6wHEd5Jjo/v7/GQ9k55bcmkefQkt/0u1/ankB4TDRYBhNSwYf4EZTXMudzCpzKKLUWI+xrfWDL0+FlHwe+TYw7cbM87o4mrnTZzNlaAXVpUa/xkzHh/dplr8XW2ym0etBoZ/6WSMptrBulBmsryZIh4Vqgyr6MUvkPvWwYFhIWaSW0q/cOcCylfSUXJ3CVmDNntd+jNw9eZh5n9ker2TxOOUH+8/huT4Db6Bb4LkCQvoVjdpkPnrWN3R3yhoJ9/88uksTKZ4RWm9N+To6cuMWqv4aXCR1iCMOw1iDLW+Fj9qeFLSa1ygV4xdd13Xnm3RtBJI6aAsCXy4zuToIrfU3/dOkc8E6H2yzq21rykO65qY/fOs4S0lTGgi2ukVmIgu8kh/1br99+AOzDpg4Pr3RtwU/bKiZIF4hUy4y/QPycvjRJ0ycQtXtWiKTCA68Bfqjnsg1zeDj94HOkiz7S9BjvFXzWz2JjMlJ/ZnacvLaUVlyAhfr6pHRhM5biqzxUVbfqqsAzwD+jprROocp5EzSjFy8S0vtTOBtr+xfrsVk4r+mDM="
 branches:
   only:
-    - master
+    - main
