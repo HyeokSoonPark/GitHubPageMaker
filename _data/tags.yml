@@ -2,8 +2,8 @@ blog :
   name : blog
   description : False
   cover : assets/built/images/background-frontend.jpg
-javascipt : 
-  name : javascipt
+javascript : 
+  name : javascript
   description : False
   cover : assets/built/images/background-frontend.jpg
 economy : 
