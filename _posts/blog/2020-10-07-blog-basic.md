@@ -12,11 +12,5 @@ author: HyeokSoonPark
 ---
 {% include blog-table-of-contents.html %}
 
-~~~javascript
-function Name(name){
-    console.log(name)
-}
-~~~
-
-
-이글은 blog 입니다.
+오늘 블로그 연관 글 작성을 해봤습니다 위에
+표시가 오늘 한 작업입니다.
