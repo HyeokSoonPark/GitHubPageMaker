@@ -21,4 +21,4 @@ author: HyeokSoonPark
 function Name(name){
     console.log(name)
 }
-~~~
+~~~   
